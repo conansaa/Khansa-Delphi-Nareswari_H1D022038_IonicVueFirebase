@@ -2,15 +2,15 @@
 
 ## Screenshot 
 1. **Tampilan Awal**
-![Lampiran Login](login.png)
+- ![Lampiran Login](login.png)
 2. **Pilih Email**
-![Lampiran Email](pilihemail.png)
+- ![Lampiran Email](pilihemail.png)
 3. **Masuk**
-![Lampiran Masuk](masuk.png)
+- ![Lampiran Masuk](masuk.png)
 4. **Home**
-![Lampiran Home](home.png)
+- ![Lampiran Home](home.png)
 5. **Profile**
-![Lampiran Profile](profile.png)
+- ![Lampiran Profile](profile.png)
 
 ## Penjelasan
 1. **Konfigurasi Firebase**
